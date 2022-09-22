@@ -12,3 +12,7 @@
     原因未知，尚未解决
    
   4.默认空图片设置无效，大量数据的图片地址无效
+
+  5.store引入vue报错
+  'default' is not exported by node_modules\@dcloudio\uni-mp-vue\dist\vue.runtime.esm.js, imported by F:\UniApp\MyDemo\store\store.js
+  原因不明，尚未结局
